@@ -1,0 +1,2927 @@
+{
+  "rdapConformance" : [ "nro_rdap_profile_0", "rdap_level_0" ],
+  "notices" : [ {
+    "title" : "Terms of Service",
+    "description" : [ "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use" ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "terms-of-service",
+      "type" : "text/html",
+      "href" : "https://www.arin.net/resources/registry/whois/tou/"
+    } ]
+  }, {
+    "title" : "Whois Inaccuracy Reporting",
+    "description" : [ "If you see inaccuracies in the results, please visit: " ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "inaccuracy-report",
+      "type" : "text/html",
+      "href" : "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+    } ]
+  }, {
+    "title" : "Copyright Notice",
+    "description" : [ "Copyright 1997-2025, American Registry for Internet Numbers, Ltd." ]
+  } ],
+  "handle" : "TMOBI",
+  "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "T-Mobile USA, Inc." ], [ "adr", {
+    "label" : "12920 SE 38th Street\nBellevue\nWA\n98006\nUnited States"
+  }, "text", [ "", "", "", "", "", "", "" ] ], [ "kind", { }, "text", "org" ] ] ],
+  "links" : [ {
+    "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+    "rel" : "self",
+    "type" : "application/rdap+json",
+    "href" : "https://rdap.arin.net/registry/entity/TMOBI"
+  }, {
+    "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+    "rel" : "alternate",
+    "type" : "application/xml",
+    "href" : "https://whois.arin.net/rest/org/TMOBI"
+  } ],
+  "events" : [ {
+    "eventAction" : "last changed",
+    "eventDate" : "2017-01-28T08:32:29-05:00"
+  }, {
+    "eventAction" : "registration",
+    "eventDate" : "2003-01-02T16:30:24-05:00"
+  } ],
+  "entities" : [ {
+    "handle" : "DNSAD11-ARIN",
+    "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "adr", {
+      "label" : "12920 SE 38th Street\nBellevue\nWA\n98027\nUnited States"
+    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "DNS Administrators" ], [ "org", { }, "text", "DNS Administrators" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "ARINtechcontact@t-mobile.com" ], [ "tel", {
+      "type" : [ "work", "voice" ]
+    }, "text", "+1-888-662-4662" ] ] ],
+    "roles" : [ "technical", "administrative" ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/entity/DNSAD11-ARIN"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/poc/DNSAD11-ARIN"
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-01-04T16:18:24-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2003-01-02T16:30:24-05:00"
+    } ],
+    "status" : [ "validated" ],
+    "port43" : "whois.arin.net",
+    "objectClassName" : "entity"
+  }, {
+    "handle" : "ABUSE4857-ARIN",
+    "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "adr", {
+      "label" : "12920 SE 38th Street\nBellevue\nWA\n98006\nUnited States"
+    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "abuse" ], [ "org", { }, "text", "abuse" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "abuse@t-mobile.com" ], [ "tel", {
+      "type" : [ "work", "voice" ]
+    }, "text", "+1-888-662-4662" ] ] ],
+    "roles" : [ "abuse" ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/entity/ABUSE4857-ARIN"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/poc/ABUSE4857-ARIN"
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-05-09T12:57:22-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2014-09-23T15:17:31-04:00"
+    } ],
+    "status" : [ "validated" ],
+    "port43" : "whois.arin.net",
+    "objectClassName" : "entity"
+  } ],
+  "autnums" : [ {
+    "handle" : "AS5079",
+    "startAutnum" : 5079,
+    "endAutnum" : 5079,
+    "name" : "DIAL-CALL",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-12-31T15:17:58-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1995-06-20T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/5079"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS5079"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS10728",
+    "startAutnum" : 10728,
+    "endAutnum" : 10728,
+    "name" : "T-MOBILE-AS10728",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2012-02-24T09:44:34-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2001-03-05T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/10728"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS10728"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS11461",
+    "startAutnum" : 11461,
+    "endAutnum" : 11461,
+    "name" : "XX",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:18:52-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2001-03-27T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/11461"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS11461"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS13644",
+    "startAutnum" : 13644,
+    "endAutnum" : 13644,
+    "name" : "TMO-METRO",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2014-01-22T13:36:08-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2005-12-06T16:09:05-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/13644"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS13644"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS16586",
+    "startAutnum" : 16586,
+    "endAutnum" : 16586,
+    "name" : "CLEARWIRE",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-12-31T15:17:58-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2005-06-24T16:00:10-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/16586"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS16586"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS17133",
+    "startAutnum" : 17133,
+    "endAutnum" : 17133,
+    "name" : "T-FIBER",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2023-08-11T09:28:08-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2000-07-28T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/17133"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS17133"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS21928",
+    "startAutnum" : 21928,
+    "endAutnum" : 21928,
+    "name" : "T-MOBILE-AS21928",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2012-02-24T09:44:34-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2002-06-12T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/21928"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS21928"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS22140",
+    "startAutnum" : 22140,
+    "endAutnum" : 22140,
+    "name" : "T-MOBILE-AS22140",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2012-02-24T09:44:34-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2001-08-10T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/22140"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS22140"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS23044",
+    "startAutnum" : 23044,
+    "endAutnum" : 23044,
+    "name" : "VMOBILE-CORP",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-12-31T15:17:58-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2002-01-08T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/23044"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS23044"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS25877",
+    "startAutnum" : 25877,
+    "endAutnum" : 25877,
+    "name" : "OPEN-MOBILE-PUERTO-RICO",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2021-09-22T14:44:33-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2007-10-22T14:19:59-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/25877"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS25877"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS32997",
+    "startAutnum" : 32997,
+    "endAutnum" : 32997,
+    "name" : "TMO-METRO",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2014-01-22T13:36:39-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2004-09-07T18:00:13-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/32997"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS32997"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  }, {
+    "handle" : "AS393494",
+    "startAutnum" : 393494,
+    "endAutnum" : 393494,
+    "name" : "L3TV-AS",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2018-04-02T15:20:06-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2014-06-23T11:55:49-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/autnum/393494"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/asn/AS393494"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "autnum"
+  } ],
+  "networks" : [ {
+    "handle" : "NET6-2001-4870-150-1",
+    "startAddress" : "2001:4870:150::",
+    "endAddress" : "2001:4870:15f:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion" : "v6",
+    "name" : "2001-4870-150--44",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET6-2001-4870-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-07-12T12:40:28-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2024-07-12T12:40:28-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2001:4870:150::"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET6-2001-4870-150-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2001:4870::/31"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v6prefix" : "2001:4870:150::",
+      "length" : 44
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET6-2001-4870-E00B-1",
+    "startAddress" : "2001:4870:e00b::",
+    "endAddress" : "2001:4870:e00b:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion" : "v6",
+    "name" : "2001-4870-E00B--48",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET6-2001-4870-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-07-12T12:41:03-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2024-07-12T12:41:03-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2001:4870:e00b::"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET6-2001-4870-E00B-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2001:4870::/31"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v6prefix" : "2001:4870:E00B::",
+      "length" : 48
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET6-2606-300-1",
+    "startAddress" : "2606:300::",
+    "endAddress" : "2606:300:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion" : "v6",
+    "name" : "T-FIBER",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET6-2600-1",
+    "remarks" : [ {
+      "title" : "Registration Comments",
+      "description" : [ "Geofeed https://raw.githubusercontent.com/tmobile/tmus-geofeed/main/tmus-geo-ip.txt" ]
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-18T15:01:23-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2011-09-20T12:21:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2606:300::"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET6-2606-300-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v6prefix" : "2606:300::",
+      "length" : 32
+    } ],
+    "arin_originas0_originautnums" : [ 17133 ]
+  }, {
+    "handle" : "NET6-2607-7700-1",
+    "startAddress" : "2607:7700::",
+    "endAddress" : "2607:7700:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion" : "v6",
+    "name" : "TMO2",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET6-2600-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-11-13T15:44:54-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2012-05-16T09:47:59-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2607:7700::"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET6-2607-7700-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v6prefix" : "2607:7700::",
+      "length" : 32
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET6-2607-F880-1",
+    "startAddress" : "2607:f880::",
+    "endAddress" : "2607:f880:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion" : "v6",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET6-2600-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-07-12T15:21:16-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2009-03-05T17:04:32-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2607:f880::"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET6-2607-F880-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v6prefix" : "2607:F880::",
+      "length" : 32
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET6-2607-FB90-1",
+    "startAddress" : "2607:fb90::",
+    "endAddress" : "2607:fb9f:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion" : "v6",
+    "name" : "TMOV6-1",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET6-2600-1",
+    "remarks" : [ {
+      "title" : "Registration Comments",
+      "description" : [ "Geofeed https://raw.githubusercontent.com/tmobile/tmus-geofeed/main/tmus-geo-ip.txt" ]
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-11-18T12:29:27-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2009-07-14T09:39:44-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2607:fb90::"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET6-2607-FB90-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v6prefix" : "2607:FB90::",
+      "length" : 28
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET6-2607-FC20-1",
+    "startAddress" : "2607:fc20::",
+    "endAddress" : "2607:fc20:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion" : "v6",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET6-2600-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-07-12T11:21:44-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2009-07-27T14:03:15-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2607:fc20::"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET6-2607-FC20-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v6prefix" : "2607:FC20::",
+      "length" : 32
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET6-2620-F5-C000-1",
+    "startAddress" : "2620:f5:c000::",
+    "endAddress" : "2620:f5:c000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion" : "v6",
+    "name" : "L3TV-IPV6",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET6-2620-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2018-04-02T15:20:06-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2016-01-29T18:39:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/2620:f5:c000::"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET6-2620-F5-C000-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v6prefix" : "2620:F5:C000::",
+      "length" : 48
+    } ],
+    "arin_originas0_originautnums" : [ 393494 ]
+  }, {
+    "handle" : "NET-100-128-0-0-1",
+    "startAddress" : "100.128.0.0",
+    "endAddress" : "100.255.255.255",
+    "ipVersion" : "v4",
+    "name" : "CORE2",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-100-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2012-05-24T15:41:08-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2012-02-27T14:42:50-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/100.128.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-100-128-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "100.128.0.0",
+      "length" : 9
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-104-152-20-0-1",
+    "startAddress" : "104.152.20.0",
+    "endAddress" : "104.152.23.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-104-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:12:52-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2014-07-09T18:42:03-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/104.152.20.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-104-152-20-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "104.152.20.0",
+      "length" : 22
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-107-24-0-0-1",
+    "startAddress" : "107.24.0.0",
+    "endAddress" : "107.63.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-107-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:03:00-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2010-11-10T15:42:43-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/107.24.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-107-24-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "107.24.0.0",
+      "length" : 13
+    }, {
+      "v4prefix" : "107.32.0.0",
+      "length" : 11
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-108-96-0-0-1",
+    "startAddress" : "108.96.0.0",
+    "endAddress" : "108.127.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-108-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T16:51:15-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2009-11-02T16:54:53-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/108.96.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-108-96-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "108.96.0.0",
+      "length" : 11
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-142-255-128-0-1",
+    "startAddress" : "142.255.128.0",
+    "endAddress" : "142.255.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-142-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T16:49:04-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2012-07-09T15:05:11-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/142.255.128.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-142-255-128-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "142.255.128.0",
+      "length" : 17
+    } ],
+    "arin_originas0_originautnums" : [ 25877 ]
+  }, {
+    "handle" : "NET-144-225-0-0-1",
+    "startAddress" : "144.225.0.0",
+    "endAddress" : "144.225.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-144-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T16:48:55-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1991-01-11T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/144.225.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-144-225-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "144.225.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-144-227-0-0-1",
+    "startAddress" : "144.227.0.0",
+    "endAddress" : "144.227.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-144-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T16:48:43-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1994-01-06T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/144.227.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-144-227-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "144.227.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-144-230-0-0-2",
+    "startAddress" : "144.230.0.0",
+    "endAddress" : "144.230.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET-144-230-0-0-1",
+    "remarks" : [ {
+      "title" : "Registration Comments",
+      "description" : [ "Legacy Yellow IT net" ]
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:00:26-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2023-05-09T13:33:15-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/144.230.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-144-230-0-0-2"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/144.230.0.0/16"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "144.230.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 6157 ]
+  }, {
+    "handle" : "NET-144-231-0-0-1",
+    "startAddress" : "144.231.0.0",
+    "endAddress" : "144.231.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-144-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2023-01-27T12:45:46-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1991-01-11T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/144.231.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-144-231-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "144.231.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-162-160-0-0-1",
+    "startAddress" : "162.160.0.0",
+    "endAddress" : "162.191.255.255",
+    "ipVersion" : "v4",
+    "name" : "CORE",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-162-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2012-06-13T11:44:57-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2012-06-13T11:44:56-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/162.160.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-162-160-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "162.160.0.0",
+      "length" : 11
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-167-20-0-0-1",
+    "startAddress" : "167.20.0.0",
+    "endAddress" : "167.20.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-167-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2022-05-24T21:27:26-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1993-04-16T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/167.20.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-167-20-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "167.20.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-168-73-0-0-1",
+    "startAddress" : "168.73.0.0",
+    "endAddress" : "168.73.255.255",
+    "ipVersion" : "v4",
+    "name" : "TMUS-168",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-168-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2021-10-22T18:37:55-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1994-02-07T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/168.73.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-168-73-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "168.73.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-170-206-0-0-1",
+    "startAddress" : "170.206.0.0",
+    "endAddress" : "170.206.255.255",
+    "ipVersion" : "v4",
+    "name" : "TMUS-170",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-170-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2021-10-22T18:44:49-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1994-12-02T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/170.206.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-170-206-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "170.206.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-172-32-0-0-1",
+    "startAddress" : "172.32.0.0",
+    "endAddress" : "172.63.255.255",
+    "ipVersion" : "v4",
+    "name" : "TMO9",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-172-0-0-0-0",
+    "remarks" : [ {
+      "title" : "Registration Comments",
+      "description" : [ "Geofeed https://raw.githubusercontent.com/tmobile/tmus-geofeed/main/tmus-geo-ip.txt" ]
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-11-18T12:32:25-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2012-09-18T15:32:10-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/172.32.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-172-32-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "172.32.0.0",
+      "length" : 11
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-173-128-0-0-1",
+    "startAddress" : "173.128.0.0",
+    "endAddress" : "173.159.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-173-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T16:03:02-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2009-03-25T16:40:53-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/173.128.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-173-128-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "173.128.0.0",
+      "length" : 11
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-173-4-0-0-1",
+    "startAddress" : "173.4.0.0",
+    "endAddress" : "173.7.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-173-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:55:08-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2008-04-30T17:50:11-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/173.4.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-173-4-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "173.4.0.0",
+      "length" : 14
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-173-96-0-0-1",
+    "startAddress" : "173.96.0.0",
+    "endAddress" : "173.127.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-173-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2023-05-11T12:22:25-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2008-09-25T18:30:48-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/173.96.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-173-96-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "173.96.0.0",
+      "length" : 11
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-174-141-208-0-1",
+    "startAddress" : "174.141.208.0",
+    "endAddress" : "174.141.223.255",
+    "ipVersion" : "v4",
+    "name" : "TMO-METRO",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-174-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2014-01-22T13:39:20-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2010-02-16T18:17:29-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/174.141.208.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-174-141-208-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "174.141.208.0",
+      "length" : 20
+    } ],
+    "arin_originas0_originautnums" : [ 13644 ]
+  }, {
+    "handle" : "NET-174-144-0-0-1",
+    "startAddress" : "174.144.0.0",
+    "endAddress" : "174.159.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-174-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T16:04:03-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2008-07-23T12:02:18-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/174.144.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-174-144-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "174.144.0.0",
+      "length" : 12
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-184-192-0-0-1",
+    "startAddress" : "184.192.0.0",
+    "endAddress" : "184.255.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-184-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:23:35-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2010-05-13T15:31:35-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/184.192.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-184-192-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "184.192.0.0",
+      "length" : 10
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-184-76-0-0-1",
+    "startAddress" : "184.76.0.0",
+    "endAddress" : "184.79.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-184-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:46:01-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2010-02-12T17:09:09-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/184.76.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-184-76-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "184.76.0.0",
+      "length" : 14
+    } ],
+    "arin_originas0_originautnums" : [ 16586 ]
+  }, {
+    "handle" : "NET-198-57-16-0-1",
+    "startAddress" : "198.57.16.0",
+    "endAddress" : "198.57.25.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-198-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T16:48:19-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1993-02-05T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/198.57.16.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-198-57-16-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "198.57.16.0",
+      "length" : 21
+    }, {
+      "v4prefix" : "198.57.24.0",
+      "length" : 23
+    } ],
+    "arin_originas0_originautnums" : [ 5079 ]
+  }, {
+    "handle" : "NET-199-102-192-0-1",
+    "startAddress" : "199.102.192.0",
+    "endAddress" : "199.102.199.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-199-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:13:47-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2011-03-11T18:34:37-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/199.102.192.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-199-102-192-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "199.102.192.0",
+      "length" : 21
+    } ],
+    "arin_originas0_originautnums" : [ 25877 ]
+  }, {
+    "handle" : "NET-206-29-160-0-1",
+    "startAddress" : "206.29.160.0",
+    "endAddress" : "206.29.191.255",
+    "ipVersion" : "v4",
+    "name" : "TMOBI4-COS",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-206-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2016-12-05T13:10:08-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2005-12-12T17:13:25-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/206.29.160.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-206-29-160-0-1"
+    } ],
+    "entities" : [ {
+      "handle" : "DNSAD11-ARIN",
+      "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "adr", {
+        "label" : "12920 SE 38th Street\nBellevue\nWA\n98027\nUnited States"
+      }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "DNS Administrators" ], [ "org", { }, "text", "DNS Administrators" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "ARINtechcontact@t-mobile.com" ], [ "tel", {
+        "type" : [ "work", "voice" ]
+      }, "text", "+1-888-662-4662" ] ] ],
+      "roles" : [ "abuse", "technical", "noc" ],
+      "links" : [ {
+        "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+        "rel" : "self",
+        "type" : "application/rdap+json",
+        "href" : "https://rdap.arin.net/registry/entity/DNSAD11-ARIN"
+      }, {
+        "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+        "rel" : "alternate",
+        "type" : "application/xml",
+        "href" : "https://whois.arin.net/rest/poc/DNSAD11-ARIN"
+      } ],
+      "events" : [ {
+        "eventAction" : "last changed",
+        "eventDate" : "2024-01-04T16:18:24-05:00"
+      }, {
+        "eventAction" : "registration",
+        "eventDate" : "2003-01-02T16:30:24-05:00"
+      } ],
+      "status" : [ "validated" ],
+      "port43" : "whois.arin.net",
+      "objectClassName" : "entity"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "206.29.160.0",
+      "length" : 19
+    } ],
+    "arin_originas0_originautnums" : [ 22140, 21928 ]
+  }, {
+    "handle" : "NET-207-143-0-0-1",
+    "startAddress" : "207.143.0.0",
+    "endAddress" : "207.143.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-207-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:13:13-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1996-06-04T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/207.143.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-207-143-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "207.143.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-207-167-160-0-1",
+    "startAddress" : "207.167.160.0",
+    "endAddress" : "207.167.191.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-207-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:12:42-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1999-08-12T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/207.167.160.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-207-167-160-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "207.167.160.0",
+      "length" : 19
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-207-52-0-0-1",
+    "startAddress" : "207.52.0.0",
+    "endAddress" : "207.52.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-207-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:22:50-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1996-02-13T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/207.52.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-207-52-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "207.52.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-208-54-0-0-1",
+    "startAddress" : "208.54.0.0",
+    "endAddress" : "208.54.159.255",
+    "ipVersion" : "v4",
+    "name" : "TMO2",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-208-0-0-0-0",
+    "remarks" : [ {
+      "title" : "Registration Comments",
+      "description" : [ "Geofeed https://raw.githubusercontent.com/tmobile/tmus-geofeed/main/tmus-geo-ip.txt" ]
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-11-18T12:32:59-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1999-08-10T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/208.54.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-208-54-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "208.54.0.0",
+      "length" : 17
+    }, {
+      "v4prefix" : "208.54.128.0",
+      "length" : 19
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-209-236-240-0-1",
+    "startAddress" : "209.236.240.0",
+    "endAddress" : "209.236.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-209-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T15:12:57-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2005-09-01T13:19:56-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/209.236.240.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-209-236-240-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "209.236.240.0",
+      "length" : 20
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-216-155-160-0-1",
+    "startAddress" : "216.155.160.0",
+    "endAddress" : "216.155.175.255",
+    "ipVersion" : "v4",
+    "name" : "TMO1",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-216-0-0-0-0",
+    "remarks" : [ {
+      "title" : "Registration Comments",
+      "description" : [ "ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE" ]
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2012-02-24T09:44:34-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2000-11-06T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/216.155.160.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-216-155-160-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "216.155.160.0",
+      "length" : 20
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-23-18-0-0-1",
+    "startAddress" : "23.18.0.0",
+    "endAddress" : "23.18.255.255",
+    "ipVersion" : "v4",
+    "name" : "ZZ",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-23-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2023-08-10T18:49:59-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2011-09-12T13:39:37-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/23.18.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-23-18-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "23.18.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-24-221-0-0-1",
+    "startAddress" : "24.221.0.0",
+    "endAddress" : "24.221.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-24-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T14:30:37-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "1998-12-08T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/24.221.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-24-221-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "24.221.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-50-28-192-0-1",
+    "startAddress" : "50.28.192.0",
+    "endAddress" : "50.28.255.255",
+    "ipVersion" : "v4",
+    "name" : "CORENET",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-50-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2012-02-24T09:44:34-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2010-12-20T10:47:22-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/50.28.192.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-50-28-192-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "50.28.192.0",
+      "length" : 18
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-50-8-0-0-1",
+    "startAddress" : "50.8.0.0",
+    "endAddress" : "50.15.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-50-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T20:30:03-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2010-07-15T15:45:59-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/50.8.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-50-8-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "50.8.0.0",
+      "length" : 13
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-52-144-16-0-1",
+    "startAddress" : "52.144.16.0",
+    "endAddress" : "52.144.23.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-52-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T20:28:38-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2016-04-04T12:13:20-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/52.144.16.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-52-144-16-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "52.144.16.0",
+      "length" : 21
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-63-160-104-112-1",
+    "startAddress" : "63.160.104.112",
+    "endAddress" : "63.160.104.127",
+    "ipVersion" : "v4",
+    "name" : "T-MOBILE-USA",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET-63-160-0-0-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-06-24T13:59:49-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2020-06-24T13:59:49-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.104.112"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-63-160-104-112-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.0.0/12"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "63.160.104.112",
+      "length" : 28
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-63-160-104-80-1",
+    "startAddress" : "63.160.104.80",
+    "endAddress" : "63.160.104.95",
+    "ipVersion" : "v4",
+    "name" : "T-MOBILE-USA",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET-63-160-0-0-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-06-24T13:48:32-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2020-06-24T13:48:32-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.104.80"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-63-160-104-80-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.0.0/12"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "63.160.104.80",
+      "length" : 28
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-63-160-90-208-1",
+    "startAddress" : "63.160.90.208",
+    "endAddress" : "63.160.90.223",
+    "ipVersion" : "v4",
+    "name" : "T-MOBILE-USA",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET-63-160-0-0-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-06-24T12:50:55-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2020-06-24T12:50:55-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.90.208"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-63-160-90-208-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.0.0/12"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "63.160.90.208",
+      "length" : 28
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-63-160-90-224-1",
+    "startAddress" : "63.160.90.224",
+    "endAddress" : "63.160.90.239",
+    "ipVersion" : "v4",
+    "name" : "T-MOBILE-USA",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET-63-160-0-0-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-06-24T13:08:50-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2020-06-24T13:08:50-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.90.224"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-63-160-90-224-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.0.0/12"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "63.160.90.224",
+      "length" : 28
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-63-160-95-64-1",
+    "startAddress" : "63.160.95.64",
+    "endAddress" : "63.160.95.79",
+    "ipVersion" : "v4",
+    "name" : "T-MOBILE-USA",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET-63-160-0-0-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-06-24T13:24:45-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2020-06-24T13:24:45-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.95.64"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-63-160-95-64-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.0.0/12"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "63.160.95.64",
+      "length" : 28
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-63-161-0-32-1",
+    "startAddress" : "63.161.0.32",
+    "endAddress" : "63.161.0.47",
+    "ipVersion" : "v4",
+    "name" : "T-MOBILE-USA",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET-63-160-0-0-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-06-24T14:16:37-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2020-06-24T14:16:37-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.161.0.32"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-63-161-0-32-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/63.160.0.0/12"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "63.161.0.32",
+      "length" : 28
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-64-13-0-0-1",
+    "startAddress" : "64.13.0.0",
+    "endAddress" : "64.13.127.255",
+    "ipVersion" : "v4",
+    "name" : "T-FIBER",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-64-0-0-0-0",
+    "remarks" : [ {
+      "title" : "Registration Comments",
+      "description" : [ "Geofeed https://raw.githubusercontent.com/tmobile/tmus-geofeed/main/tmus-geo-ip.txt" ]
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-18T15:00:38-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2005-05-03T12:25:30-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/64.13.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-64-13-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "64.13.0.0",
+      "length" : 17
+    } ],
+    "arin_originas0_originautnums" : [ 17133 ]
+  }, {
+    "handle" : "NET-64-133-0-0-1",
+    "startAddress" : "64.133.0.0",
+    "endAddress" : "64.133.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-64-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-01-17T21:46:07-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2000-07-19T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/64.133.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-64-133-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "64.133.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 10728 ]
+  }, {
+    "handle" : "NET-65-76-0-0-1",
+    "startAddress" : "65.76.0.0",
+    "endAddress" : "65.76.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-65-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2022-05-24T21:26:55-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2001-02-15T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/65.76.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-65-76-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "65.76.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-66-1-0-0-1",
+    "startAddress" : "66.1.0.0",
+    "endAddress" : "66.1.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-66-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T20:27:17-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2000-08-25T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/66.1.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-66-1-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "66.1.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-66-233-0-0-1",
+    "startAddress" : "66.233.0.0",
+    "endAddress" : "66.233.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-66-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T12:56:57-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2006-02-28T12:46:02-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/66.233.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-66-233-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "66.233.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 16586 ]
+  }, {
+    "handle" : "NET-66-87-0-0-1",
+    "startAddress" : "66.87.0.0",
+    "endAddress" : "66.87.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-66-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T20:29:22-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2001-03-27T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/66.87.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-66-87-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "66.87.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-66-94-0-0-1",
+    "startAddress" : "66.94.0.0",
+    "endAddress" : "66.94.31.255",
+    "ipVersion" : "v4",
+    "name" : "TMO3",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-66-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2020-11-13T15:45:35-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2001-04-05T00:00:00-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/66.94.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-66-94-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "66.94.0.0",
+      "length" : 19
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-67-215-108-0-1",
+    "startAddress" : "67.215.108.0",
+    "endAddress" : "67.215.111.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-67-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-25T16:51:01-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2011-08-08T15:11:24-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/67.215.108.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-67-215-108-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "67.215.108.0",
+      "length" : 22
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-68-24-0-0-1",
+    "startAddress" : "68.24.0.0",
+    "endAddress" : "68.31.255.255",
+    "ipVersion" : "v4",
+    "name" : "TMOBILE",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-68-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2022-05-24T22:03:57-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2001-12-14T00:00:00-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/68.24.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-68-24-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "68.24.0.0",
+      "length" : 13
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-68-240-0-0-1",
+    "startAddress" : "68.240.0.0",
+    "endAddress" : "68.247.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-68-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2023-01-20T13:56:54-05:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2003-07-17T10:21:16-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/68.240.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-68-240-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "68.240.0.0",
+      "length" : 13
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-70-0-0-0-1",
+    "startAddress" : "70.0.0.0",
+    "endAddress" : "70.14.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-70-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:13:13-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2004-03-25T18:53:41-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/70.0.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-70-0-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "70.0.0.0",
+      "length" : 13
+    }, {
+      "v4prefix" : "70.8.0.0",
+      "length" : 14
+    }, {
+      "v4prefix" : "70.12.0.0",
+      "length" : 15
+    }, {
+      "v4prefix" : "70.14.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-71-20-0-0-1",
+    "startAddress" : "71.20.0.0",
+    "endAddress" : "71.23.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-71-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:15:34-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2008-12-16T18:20:19-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/71.20.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-71-20-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "71.20.0.0",
+      "length" : 14
+    } ],
+    "arin_originas0_originautnums" : [ 16586 ]
+  }, {
+    "handle" : "NET-72-250-0-0-1",
+    "startAddress" : "72.250.0.0",
+    "endAddress" : "72.250.127.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-72-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-10-01T22:31:39-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2005-02-15T18:29:26-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/72.250.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-72-250-0-0-1"
+    } ],
+    "entities" : [ {
+      "handle" : "DNSAD11-ARIN",
+      "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "adr", {
+        "label" : "12920 SE 38th Street\nBellevue\nWA\n98027\nUnited States"
+      }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "DNS Administrators" ], [ "org", { }, "text", "DNS Administrators" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "ARINtechcontact@t-mobile.com" ], [ "tel", {
+        "type" : [ "work", "voice" ]
+      }, "text", "+1-888-662-4662" ] ] ],
+      "roles" : [ "technical" ],
+      "links" : [ {
+        "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+        "rel" : "self",
+        "type" : "application/rdap+json",
+        "href" : "https://rdap.arin.net/registry/entity/DNSAD11-ARIN"
+      }, {
+        "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+        "rel" : "alternate",
+        "type" : "application/xml",
+        "href" : "https://whois.arin.net/rest/poc/DNSAD11-ARIN"
+      } ],
+      "events" : [ {
+        "eventAction" : "last changed",
+        "eventDate" : "2024-01-04T16:18:24-05:00"
+      }, {
+        "eventAction" : "registration",
+        "eventDate" : "2003-01-02T16:30:24-05:00"
+      } ],
+      "status" : [ "validated" ],
+      "port43" : "whois.arin.net",
+      "objectClassName" : "entity"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "72.250.0.0",
+      "length" : 17
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-72-56-0-0-1",
+    "startAddress" : "72.56.0.0",
+    "endAddress" : "72.63.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-72-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:19:03-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2008-02-26T12:27:41-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/72.56.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-72-56-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "72.56.0.0",
+      "length" : 13
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  }, {
+    "handle" : "NET-72-6-0-0-1",
+    "startAddress" : "72.6.0.0",
+    "endAddress" : "72.7.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-72-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:15:49-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2004-11-09T17:14:48-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/72.6.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-72-6-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "72.6.0.0",
+      "length" : 15
+    } ],
+    "arin_originas0_originautnums" : [ 5079 ]
+  }, {
+    "handle" : "NET-74-60-0-0-1",
+    "startAddress" : "74.60.0.0",
+    "endAddress" : "74.61.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-74-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-09-17T22:45:32-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2006-05-09T12:12:54-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/74.60.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-74-60-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "74.60.0.0",
+      "length" : 15
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-75-122-0-0-1",
+    "startAddress" : "75.122.0.0",
+    "endAddress" : "75.123.255.255",
+    "ipVersion" : "v4",
+    "name" : "TMUS-75-122",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-75-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2021-09-23T13:34:58-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2006-05-25T12:54:41-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/75.122.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-75-122-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "75.122.0.0",
+      "length" : 15
+    } ],
+    "arin_originas0_originautnums" : [ 21928 ]
+  }, {
+    "handle" : "NET-75-92-0-0-1",
+    "startAddress" : "75.92.0.0",
+    "endAddress" : "75.95.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-75-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:21:13-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2006-09-19T14:25:35-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/75.92.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-75-92-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "75.92.0.0",
+      "length" : 14
+    } ],
+    "arin_originas0_originautnums" : [ 16586 ]
+  }, {
+    "handle" : "NET-96-24-0-0-1",
+    "startAddress" : "96.24.0.0",
+    "endAddress" : "96.26.255.255",
+    "ipVersion" : "v4",
+    "name" : "XX",
+    "type" : "DIRECT ALLOCATION",
+    "parentHandle" : "NET-96-0-0-0-0",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-06-26T11:19:52-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2007-11-06T15:22:15-05:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/96.24.0.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-96-24-0-0-1"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "96.24.0.0",
+      "length" : 15
+    }, {
+      "v4prefix" : "96.26.0.0",
+      "length" : 16
+    } ],
+    "arin_originas0_originautnums" : [ 16586 ]
+  }, {
+    "handle" : "NET-97-65-105-0-1",
+    "startAddress" : "97.65.105.0",
+    "endAddress" : "97.65.105.255",
+    "ipVersion" : "v4",
+    "name" : "97-65-105-0-24",
+    "type" : "ASSIGNMENT",
+    "parentHandle" : "NET-97-65-0-0-1",
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2024-07-12T16:47:49-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2024-07-12T16:47:49-04:00"
+    } ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/97.65.105.0"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/net/NET-97-65-105-0-1"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/TMOBI",
+      "rel" : "up",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/ip/97.65.0.0/16"
+    } ],
+    "port43" : "whois.arin.net",
+    "status" : [ "active" ],
+    "objectClassName" : "ip network",
+    "cidr0_cidrs" : [ {
+      "v4prefix" : "97.65.105.0",
+      "length" : 24
+    } ],
+    "arin_originas0_originautnums" : [ ]
+  } ],
+  "port43" : "whois.arin.net",
+  "objectClassName" : "entity"
+}
